@@ -7,7 +7,7 @@ questions = [("Who is the current President of the United States?", ["a. Barack 
              ("What is the smallest country in the world?", ["a. Monaco", "b. Vatican City", "c. Liechtenstein", "d. San Marino"], "b"),
              ("Which of the following is not a primary color?", ["a. Red", "b. Blue", "c. Green", "d. Yellow"], "c"),
              ("Who wrote the novel 'To Kill a Mockingbird'?", ["a. Harper Lee", "b. Ernest Hemingway", "c. William Faulkner", "d. F. Scott Fitzgerald"], "a"),
-             ("What is the capital of Japan?", ["a. Shanghai", "b. Beijing", "c. Toko", "d. Seoul"], "c"),
+             ("What is the capital of Japan?", ["a. Shanghai", "b. Beijing", "c. Tokyo", "d. Seoul"], "c"),
              ("What is the chemical symbol for gold?", ["a. Ag", "b. Au", "c. Cu", "d. Fe"], "b"),
              ("What is the highest mountain in Africa?", ["a. Mount Everest", "b. Mount Kilimanjaro", "c. Mount Fuji", "d. Mount McKinley"], "b")]
 
