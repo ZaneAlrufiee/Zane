@@ -1,8 +1,10 @@
+# Widgets and Functions 
 import tkinter as tk
 from tkinter import messagebox
 import random
-
+# Functi and Compo
 class QuizGUI:
+    #Constr
     def __init__(self, questions):
         self.questions = questions
         self.current_question = 0
@@ -111,7 +113,7 @@ class QuizGUI:
         self.display_question()
 
 
-# Questions
+# Questions tup
 questions = [
     ("Who is the current President of the United States?", ["a. Barack Obama", "b. Donald Trump", "c. Joe Biden", "d. George Bush"], 2),
     ("Who painted the Mona Lisa?", ["a. Michelangelo", "b. Leonardo da Vinci", "c. Vincent van Gogh", "d. Pablo Picasso"], 1),
